@@ -2,7 +2,7 @@ An attempt to generate new bridge types from latent space of variational autoenc
 
 Hongjun Zhang 
 
-Wanshi Xianxing Digital Intelligence Traffic Technology Co., Ltd, Nanjing, 210016, China
+Wanshi Antecedence Digital Intelligence Traffic Technology Co., Ltd, Nanjing, 210016, China
 
 583304953@QQ.com
 
