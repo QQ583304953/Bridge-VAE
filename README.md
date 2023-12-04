@@ -11,6 +11,7 @@ Abstract：Try to generate new bridge types using generative artificial intellig
 
 Keywords: variational autoencoder; latent space; bridge-type innovation; generative artificial intelligence; deep learning
 
+https://arxiv.org/abs/2311.03380
 
 从变分自编码器隐空间中生成新桥型的尝试
 
@@ -19,3 +20,5 @@ Keywords: variational autoencoder; latent space; bridge-type innovation; generat
 摘要：尝试利用生成式人工智能技术生成新桥型。采用3dsMax动画软件渲染构件宽度变化的桥梁立面灰度图片、接着OpenCV模块对图片进行适量的几何变换（旋转、水平缩放、竖向缩放），获得三跨梁式桥、拱式桥、斜拉桥、悬索桥图像数据集。基于Python编程语言、TensorFlow及Keras深度学习平台框架，构建和训练变分自编码器，得到便于向量运算的低维桥型隐空间，实践发现从隐空间中采样能够生成新的组合桥型。变分自编码器能够在人类原创桥型的基础上，将两种桥型合为一体，组合创造。生成式人工智能技术能够协助桥梁设计师进行桥型创新、可以作为副驾驶。
 
 关键词：生成式人工智能；桥型创新；变分自编码器；隐空间；深度学习
+
+http://www.paper.edu.cn/releasepaper/content/202311-5
