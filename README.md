@@ -11,6 +11,8 @@ Abstract：Try to generate new bridge types using generative artificial intellig
 
 Keywords: variational autoencoder; latent space; bridge-type innovation; generative artificial intelligence; deep learning
 
+Based on the Python3.8, TensorFlow2.6, and Keras2.6
+
 https://arxiv.org/abs/2311.03380
 
 从变分自编码器隐空间中生成新桥型的尝试
